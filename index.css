@@ -1,0 +1,92 @@
+
+.navi{
+    padding: 18px;
+      
+   background-color:darkseagreen;
+   display: flex;
+   gap: 180px;
+font-family: 'Times New Roman', Times, serif;
+height: 48px;
+width: 1205px;
+justify-content: center;
+align-items: center;
+font-weight: 400;
+color:deepskyblue;
+
+}
+.first{
+
+  height: 500px;
+width: 1020px;
+}
+
+.second{
+  height: 400px;
+width: 520px;
+}
+
+.total{
+  background-color:lightgray;
+}
+.img6{
+    height: 300px;
+width: 720px;
+}
+
+.footer{
+     height: 200px;
+width: 1235px;
+border: 1px solid black;
+color:black;
+font-style: italic;
+background-color:darkseagreen;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.but2{
+  padding: 10PX;
+  display: flex;
+  background-color: darkblue;
+  color: azure;
+justify-content: center;
+align-items: center;
+margin-left: 80vh;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+
+.career{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+  
+  background-color: darkblue;
+  color: azure;
+  width: 160px;
+  border: 1px solid black;
+}
+
+.career1{
+  color:bisque;
+  background-color:brown;
+  margin-left: 40px;
+}
+
+.caree{
+ display: inline;
+   justify-content: center;
+   align-items: center;
+}
+
+.quick{
+  display: flex;
+  justify-content: center;
+   align-items: center;
+   background-color: black;
+   color: floralwhite;
+   height: 70px;
+
+}
